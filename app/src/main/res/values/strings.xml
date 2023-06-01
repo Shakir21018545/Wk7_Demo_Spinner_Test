@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Wk7 Demo Spinner Test</string>
+    <string name="textview">TextView</string>
+    <string-array name="spinnerItems">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
 </resources>
